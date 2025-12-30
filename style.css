@@ -1,0 +1,155 @@
+.name{
+    position: fixed;
+    top:35px;
+    left:250px;
+    border: 5px solid rgb(236, 230, 230);
+    height:250px;
+    width:220px;
+    border-radius: 10px;
+     box-shadow:1px 1px 3px black;
+}
+.Login{
+     position: fixed;
+    top:35px;
+    left:650px;
+     border: 5px solid rgb(236, 230, 230);
+    height:250px;
+    width:220px;
+    border-radius: 10px;
+    box-shadow:1px 1px 3px black;
+
+}
+.vertical{
+     position: fixed;
+    top:35px;
+    left:1050px;
+    border: 5px solid rgb(236, 230, 230);
+    background-color: rgba(181, 186, 186, 0);
+    height:250px;
+    width:220px;
+    border-radius: 10px;
+     box-shadow:1px 1px 3px black;
+}
+.product{
+     position: fixed;
+    top:350px;
+    left:400px;
+    border: 5px solid rgb(236, 230, 230);
+    height:250px;
+    width:220px;
+    border-radius: 10px;
+     box-shadow:1px 1px 3px black;
+}
+.pricing{
+     position: fixed;
+    top:350px;
+    left:800px;
+    border: 5px solid rgb(236, 230, 230);
+    height:250px;
+    width:220px;
+    border-radius: 10px;
+     box-shadow:1px 1px 3px black;
+}
+.john{
+    position:absolute;
+    top:23px;
+    left:65px;
+    height: 90px;
+    width:90px;
+    border-radius:80px;
+}
+.box{
+    position: absolute;
+    border: 2px solid rgb(245, 245, 249);
+    border-radius: 5px;
+    height:33px;
+    width:180px;
+    top:170px;
+    left:18px;
+    font-size:larger;
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+#login{
+    position: absolute;
+    height:33px;
+    width:180px;
+    top:190px;
+    left:18px;
+    font-size:larger;
+    background-color: blue;
+    color: white;
+    border-radius: 5px; 
+    cursor:pointer;
+    transition: 0.3s;
+    border: 0px;
+}
+#login:hover{
+    background-color: white;
+    color: blue;
+}
+.shoe{
+    position: absolute;
+    height:160px;
+    top:0px;
+    left:40px;
+}
+#cart{
+    position: absolute;
+    height:33px;
+    width:180px;
+    top:190px;
+    left:18px;
+    font-size:larger;
+    background-color: rgb(35, 191, 30);
+    color: white;
+    border-radius: 5px; 
+    cursor:pointer;
+    transition: 0.3s;
+    border: 0px;
+}
+#cart:hover{
+    background-color: white;
+    color: rgb(35, 191, 30);
+}
+#sign{
+  position: absolute;
+    height:33px;
+    width:180px;
+    top:190px;
+    left:18px;
+    font-size:larger;
+    background-color: blue;
+    color: white;
+    border-radius: 5px; 
+    cursor:pointer;
+    transition: 0.3s;
+    border: 0px;
+}
+#sign:hover{
+    background-color: white;
+    color: blue;
+}
+#follow{
+  position: absolute;
+    height:33px;
+    width:180px;
+    top:190px;
+    left:18px;
+    font-size:larger;
+    background-color: blue;
+    color: white;
+    border-radius: 5px; 
+    cursor:pointer;
+    transition: 0.3s;
+    border: 0px;
+}
+#follow:hover{
+    background-color: white;
+    color: blue;
+}
+
+
